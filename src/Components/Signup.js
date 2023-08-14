@@ -17,9 +17,6 @@ const Signup = () =>{
     const submitHandler = (e) => {
         alert("You are Signed In Successfully...😎");
     };
-
-
-
     return(
         <>
         <div className="d-flex justify-content-center align-items-center vh-100 bg-danger-subtle" id="b-img">
